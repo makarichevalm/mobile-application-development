@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerviewProj</string>
+    <string name="but_add">Добавить рейс</string>
+    <string name="text_depp">Пункт отправления</string>
+    <string name="text_dept">Время прибытия</string>
+    <string name="text_arrt">Время отправления</string>
+    <string name="text_arrp">Пункт назначения</string>
+</resources>
